@@ -20,7 +20,7 @@ class Jhj_Crtc_Autoloader
 	}
 
 	/**
-	 * Handles autoloading of News classes.
+	 * Handles autoloading of CRTC classes.
 	 *
 	 * @param string $class
 	 */
