@@ -20,7 +20,7 @@ class Jhj_Crtc_Autoloader
 	}
 
 	/**
-	 * Handles autoloading of MyPlugin classes.
+	 * Handles autoloading of News classes.
 	 *
 	 * @param string $class
 	 */
