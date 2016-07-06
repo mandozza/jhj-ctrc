@@ -36,6 +36,7 @@ class JhjCrtc_Cpt{
 		'menu_icon' => 'dashicons-images-alt',
 		'menu_position' => 6,
 		'supports'      => array( 'title' ),
+		'taxonomies' => array( 'Category' ),
 		'has_archive'   => false,
 		'rewrite' => false,
 		);
